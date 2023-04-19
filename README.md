@@ -1,6 +1,7 @@
 # Bank App UI 
 
-A new Flutter project.
+My Bank App UI Flutter project.
+
 ![card](https://user-images.githubusercontent.com/110984357/220885894-895c2067-8c04-4480-aa2d-9a60283ac350.PNG)
 
 ## Getting Started
